@@ -1,1 +1,1 @@
-# Data-Science-Machine-Learning-and-Business-Analytics
+Gesture Phase segmentation using Machine Learning and Deep Learning models
