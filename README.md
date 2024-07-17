@@ -1,1 +1,1 @@
-Gesture Phase segmentation using Machine Learning and Deep Learning models
+Gesture Phase segmentation using Machine Learning models
